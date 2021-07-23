@@ -19,5 +19,5 @@ Then if i am feeling motivated, i would like to
 - _update the existing content_ in line with FreeBasic v1.05/1.06
 - identify _what needs to be added to fill in the gaps_ between FreeBasic v0.17 and v1.05/1.06
 .
-I recently found a nice set of tutorials at http://www.frankticfreebasic.com/ which would be nice to include or merge in with the author's consent, initially about using FBedit as beginnner's tools to writing, compiling and testing code or the FBC command line to compile code.
+
 .
