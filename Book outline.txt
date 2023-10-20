@@ -1,0 +1,89 @@
+Front matter 
+
+Section 1  
+	Datatypes
+		Numeric
+			floating point 
+			signed vs unsigned
+		Arithmetic operators 
+			precdence
+			shortcuts operators
+		bianary numbers
+		bitwise operators. 
+			and
+			or
+			xor
+			not
+			eqv
+			imp
+			shortcut bitwise operators
+			shl and shr operators
+		string
+			dynamic string
+			fixed length 
+			Zstring	
+			Wstring
+		array
+			single dimensional
+			multi- dimensional
+			Dynaic arrays
+			array functions
+		
+		pointer
+			Typed 	
+			untyped
+			Memory functions
+			Pointer functions
+			pointer to functions and subroutines
+			callback functions
+			pointer to pointers
+
+		Composit
+			types
+			type assignments
+			pointer to types
+			type memory arrays
+			Dynamic arrays in types
+			function pointer in types
+			forward Refrences
+			bit fields
+			the field property
+			type initialization
+			unions
+				types in unions
+				unions in types
+
+		Functions and Subroutines
+			sub end sub
+			function end function
+			Parameters
+				byref/byval
+				static and export
+				calling convention
+			overloading 
+			Return values
+		Constants
+			symbolic #define
+			const keyword
+			enumerations
+
+		
+
+		Control Structures
+			If then end if
+			Else
+			Elseif
+			using bitwise operators in if statement
+			select case statement. 
+		Loops
+			For next
+			Do  loop until
+			While Wend
+		Scope
+			local variables
+			Scope end scope
+			Variable Lifetime
+			Module Level Variables
+			Subroutine and Function Level Variables
+			Static Variables
+			Control Block Variables
