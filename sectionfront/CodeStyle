@@ -1,0 +1,13 @@
+When writing the code for this book I decided to use a consistant style in my coding.   
+
+
+
+pointer   p
+single    s
+double	  d
+integer   i
+long      l
+string    
+zstring    
+array     a 
+This is what I want to talk about.
