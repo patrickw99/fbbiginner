@@ -1,0 +1,45 @@
+Let’s delve into the distinctions between functions and subroutines in the FreeBASIC programming language.
+
+Functions:
+A function is a callable unit that performs a specific task and returns a value.
+It takes parameters (input values) and computes a result based on those inputs.
+Functions are often used for calculations, transformations, or data processing.
+The value returned by a function can be assigned to a variable or used directly in expressions.
+Example:
+Function CalculateArea(radius As Double) As Double
+    Return 3.14 * radius * radius
+End Function
+
+In this example, CalculateArea is a function that computes the area of a circle given its radius.
+Subroutines:
+A subroutine (also known as a sub) is similar to a function, but it does not return a value.
+Subroutines are used for performing actions or executing a sequence of statements.
+They can modify variables, print messages, or manipulate data without producing a result.
+Example:
+Sub PrintGreeting(name As String)
+    Print "Hello, " + name + "!"
+End Sub
+
+In this example, PrintGreeting is a subroutine that displays a personalized greeting.
+Key Differences:
+Return Value:
+Functions return a value; subroutines do not.
+Functions are used when you need a result, while subroutines are used for side effects.
+Usage:
+Use functions when you want to compute something and get a result back.
+Use subroutines when you want to perform an action or manipulate data without returning anything.
+Syntax:
+In FreeBASIC, both functions and subroutines are defined using the Function and Sub keywords, respectively.
+Functions have a return type (e.g., As Double), while subroutines do not specify a return type.
+Example:
+Function CalculateArea(radius As Double) As Double
+    ' ... computation ...
+End Function
+
+Sub PrintGreeting(name As String)
+    ' ... action ...
+End Sub
+
+In summary, functions are like calculators that give you answers, while subroutines are like tools that perform actions. Understanding these differences helps you choose the right tool for the job in FreeBASIC programming! 🚀👩‍💻
+
+1: Stack Overflow: What is the difference between a function and a subroutine? 2: FreeBASIC Wiki Manual: SUB
